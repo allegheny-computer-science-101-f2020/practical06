@@ -16,8 +16,6 @@
 
 - [Program Requirements](#program-requirements)
 
-- [Downloading Project Updates](#downloading-project-updates)
-
 - [Using GitHub Actions CI](#using-github-actions-ci)
 
 - [Reporting Problems](#reporting-problems)
@@ -121,7 +119,7 @@ This assignment does NOT use [GitHub Actions CI](https://github.com/features/act
 
 ## Reporting Problems
 
-If you have found a problem with this assignment's provided source code or documentation, then you can go to the [Computer Science 101 Fall 2019 Practical 4](https://github.com/allegheny-computer-science-101-f2020/practical05) repository and [raise an issue](https://github.com/allegheny-computer-science-101-f2020/practical05/issues). If you have found a problem with the [GatorGrader tool](https://github.com/GatorEducator/gatorgrader) and the way that it checks your assignment, then you can also [raise an issue](https://github.com/GatorEducator/gatorgrader/issues) in that repository. To ensure that your issue is properly resolved, please provide as many details as is possible about the problem that you experienced. If you discover a problem with the assignment sheet for this project, then please raise an issue in the GitHub repository that provides the assignment sheets for your course.
+If you have found a problem with this assignment's provided source code or documentation, then you can go to the [Computer Science 101 Fall 2020 Practical 06](https://github.com/allegheny-computer-science-101-f2020/practical06) repository and [raise an issue](https://github.com/allegheny-computer-science-101-f2020/practical06/issues). If you have found a problem with the [GatorGrader tool](https://github.com/GatorEducator/gatorgrader) and the way that it checks your assignment, then you can also [raise an issue](https://github.com/GatorEducator/gatorgrader/issues) in that repository. To ensure that your issue is properly resolved, please provide as many details as is possible about the problem that you experienced. If you discover a problem with the assignment sheet for this project, then please raise an issue in the GitHub repository that provides the assignment sheets for your course.
 
 Whenever possible, individuals who find, and use the appropriate GitHub issue tracker to correctly document, a mistake in any aspect of this assignment will receive free [GitHub stickers](https://octodex.github.com/) and extra credit towards their grade for the project.
 
